@@ -1,6 +1,6 @@
 <h2>Information	</h2>
 
-Replication file for twitter thread: 
+Replication file for twitter thread: https://x.com/alexander_sorg/status/1845491230991413442
 
 <ol>
   <li>Data on US military bases from: https://installations.militaryonesource.mil/view-all</li>
